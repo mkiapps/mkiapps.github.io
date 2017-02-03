@@ -1,0 +1,34 @@
+APPLICATION PRIVACY POLICY:
+
+This privacy policy governs our data practices in connection with your use of the "Weather 
+Forecast for week" (an "application") application on your mobile device.
+
+Inmportant: developer of an application do not store on any their servers or another 
+ways of storages any kind of personal information about you or your device. This information 
+is used by application and Android system ONLY to serve you a relevant weather 
+forecasts data. However some third-party libraries and/or components, such as Google Play 
+services, may collect and store your personal data according to their 
+privacy policy.
+
+Kind of information requested by the application and its components and way it used:
+
+1) Using your Internet connection: in order to download weather data Internet connection 
+is required. Note: you may be charged by you Celullar network provider or Internet service 
+provider for usage of Internet connection services.
+
+2) Information about Internet connection on your device: our application uses Internet 
+connection in order to provide you data of up-to-date weather forecast. To keep an aplication 
+running properly it checks if you device is connected to Internet.
+
+3) Read Google Services: in order to serve you with in-app ads application requests to 
+get information from Google Play Services (copyright by Google Inc.), and make possible 
+usage of Google Maps API
+
+4) Access Fine Location: this information used to provide an application information 
+about you current location in order to serve you with relevant to you weather information
+
+5) Information collected by third-party services and applications used in application:
+ this application using Admob services to serve you with in-app ads (Admob privacy
+ policy can be found here: http://www.admob.com/home/privacy). In order to to provide 
+you a relevant ads information may be collected (such as accounts installed on device, 
+your history of locations and current location, info about your device, etc...).
